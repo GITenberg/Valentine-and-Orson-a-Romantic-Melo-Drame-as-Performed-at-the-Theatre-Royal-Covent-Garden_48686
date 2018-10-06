@@ -25,6 +25,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Valentine and Orson, a Romantic Melo-Drame, as Performed at the Theatre-Royal
   Covent-Garden
 url: http://www.gutenberg.org/ebooks/48686
